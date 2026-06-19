@@ -181,13 +181,3 @@ Google has the highest CAC and an LTV/CAC ratio below 1. Under the current condi
 * Review Google campaign settings, targeting, keyword strategy, and traffic quality.
 * Analyze the App Store and Google Play pages to identify potential post-click friction.
 * Compare performance at the campaign, ad set, and individual ad levels.
-
-## Possible Next Steps
-
-* Build an interactive Tableau dashboard
-* Analyze weekly and monthly performance trends
-* Compare CAC changes over time
-* Evaluate individual campaigns and ad sets
-* Identify the best-performing advertising creatives
-* Add geographic or audience-level segmentation
-* Automate the cleaned daily dataset in BigQuery
